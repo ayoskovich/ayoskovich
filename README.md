@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayoskovich
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning how to deploy solutions using AWS 
+- 👀 I’m interested in analyzing data.
+- 💼 At my day job I build web applications with `Python`, `AWS`, and `PostgreSQL`.
 
 <!---
 ayoskovich/ayoskovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
